@@ -136,48 +136,6 @@ My research interests include:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
----
-
-# 💼 Featured Work
-
-## 🧠 JobQuir — AI-Powered Job Platform
-
-An intelligent job platform designed around **AI-driven recruitment and career intelligence**.
-
-### AI systems include:
-
-* 📄 AI Resume Analyzer & ATS Scoring
-* 🎯 AI Job Matching Engine
-* 🤝 AI Recruiter Assistant
-* 🎤 AI Interview System
-* 🧭 AI Career Coach
-* ⚡ AI Auto Apply
-* 📝 AI Resume Builder
-* 🧠 Skill Intelligence & Skill Graph
-* 🛡️ AI Fraud Detection
-* 💰 Salary Prediction
-* 🔎 Semantic Job Search
-* 📊 Recruitment Analytics
-
-**Core Technologies:** Python · FastAPI · Machine Learning · NLP · Embeddings · Semantic Search · XGBoost · React · Node.js
-
----
-
-## 🏥 Agentic AI for Hospital Management
-
-Working on an AI-driven architecture for hospital management workflows integrating intelligent agents with hospital operations.
-
-### Areas of focus:
-
-* OPD & IPD workflows
-* Laboratory operations
-* Pharmacy workflows
-* Patient information systems
-* Intelligent database querying
-* AI-powered decision support
-* RAG-based knowledge retrieval
-* Agent orchestration
-
 **Core Technologies:** Python · FastAPI · PostgreSQL · AI Agents · RAG · React · Docker
 
 ---
