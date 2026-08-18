@@ -9,8 +9,14 @@ I build **intelligent, scalable, and production-ready software systems** by comb
 * 🚀 Interested in **AI-powered products, automation, SaaS & scalable backend systems**
 * 🔬 Researcher working across **Computer Vision, Optimization, Healthcare AI, IoMT/IoMT & Intelligent Systems**
 * 🧠 Currently building and experimenting with **AI-driven products and production ML systems**
-* 🌐 Portfolio: **[milindkundu.me](https://www.milindkundu.me)**
-* 💼 LinkedIn: **[Milind Kundu](https://www.linkedin.com/in/milind-kundu-348017286/)**
+
+<a href="https://www.milindkundu.me">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/milind-kundu-348017286/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
@@ -24,17 +30,29 @@ My work sits at the intersection of:
 
 I enjoy designing ML pipelines, developing intelligent APIs, building full-stack applications, experimenting with research ideas, and deploying systems that solve practical problems.
 
-🤖 AI / ML
+```text
+AI / ML
+   ├── Machine Learning
+   ├── Deep Learning
+   ├── NLP
+   ├── Computer Vision
+   ├── Recommendation Systems
+   └── Intelligent Automation
 
-Machine Learning · Deep Learning · NLP · Computer Vision · Recommendation Systems · Predictive Analytics · Intelligent Automation
+Software Engineering
+   ├── MERN Stack
+   ├── Python Backend
+   ├── REST APIs
+   ├── Database Systems
+   └── Cloud / Deployment
 
-💻 Software Engineering
-
-MERN Stack · FastAPI · Flask · REST APIs · Database Systems · Cloud Deployment · System Architecture
-
-🔬 Research
-
-Computer Vision · Medical AI · Optimization · IoT · IoMT · Predictive Intelligence · Intelligent Systems
+Research
+   ├── Computer Vision
+   ├── Medical AI
+   ├── Optimization
+   ├── IoT / IoMT
+   └── Intelligent Systems
+```
 
 ---
 
@@ -126,64 +144,6 @@ My research interests include:
 
 ---
 
-# 💼 Featured Work
-
-## 🧠 JobQuir — AI-Powered Job Platform
-
-An intelligent job platform designed around **AI-driven recruitment and career intelligence**.
-
-### AI systems include:
-
-* 📄 AI Resume Analyzer & ATS Scoring
-* 🎯 AI Job Matching Engine
-* 🤝 AI Recruiter Assistant
-* 🎤 AI Interview System
-* 🧭 AI Career Coach
-* ⚡ AI Auto Apply
-* 📝 AI Resume Builder
-* 🧠 Skill Intelligence & Skill Graph
-* 🛡️ AI Fraud Detection
-* 💰 Salary Prediction
-* 🔎 Semantic Job Search
-* 📊 Recruitment Analytics
-
-**Core Technologies:** Python · FastAPI · Machine Learning · NLP · Embeddings · Semantic Search · XGBoost · React · Node.js
-
----
-
-## 🏥 Agentic AI for Hospital Management
-
-Working on an AI-driven architecture for hospital management workflows integrating intelligent agents with hospital operations.
-
-### Areas of focus:
-
-* OPD & IPD workflows
-* Laboratory operations
-* Pharmacy workflows
-* Patient information systems
-* Intelligent database querying
-* AI-powered decision support
-* RAG-based knowledge retrieval
-* Agent orchestration
-
-**Core Technologies:** Python · FastAPI · PostgreSQL · AI Agents · RAG · React · Docker
-
----
-
-## 👁️ Computer Vision & Medical AI
-
-Research and development involving:
-
-* Medical image analysis
-* Image registration
-* Brain tumor segmentation
-* Image fusion
-* Object detection
-* Deep learning-based vision systems
-* Optimization-based image processing
-
----
-
 # 📚 Research & Publications
 
 I am actively involved in **AI/ML research and scientific publication**, with research interests spanning computer vision, healthcare AI, optimization, IoT and intelligent systems.
@@ -192,15 +152,6 @@ I am actively involved in **AI/ML research and scientific publication**, with re
 
 `Computer Vision` · `Medical AI` · `Deep Learning` · `Optimization` · `IoMT` · `IoT` · `Predictive Intelligence`
 
-📖 Selected publication:
-
-**Machine Learning-Based Predictive Intelligence for Sustainable Internet of Marine Things**
-
-Published as a book chapter in:
-
-**Big Data Analytics for Internet of Marine Things — Springer Nature**
-
----
 
 # 📊 GitHub Stats
 
